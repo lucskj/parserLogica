@@ -1,0 +1,6 @@
+5
+abcde
+T
+(\neg TTTTTT)
+(\leftrightarrow T F)
+(\wedge (\neg a) (\vee f1 f2))
